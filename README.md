@@ -1,0 +1,2 @@
+# TechAITrendz
+Technology Blogs
