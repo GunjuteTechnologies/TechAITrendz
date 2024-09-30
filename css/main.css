@@ -2466,6 +2466,7 @@ textarea.form-control {
 /* address-content */
 
 .address-content .address {
+    height: 84%;
     padding: 30px;
     border-radius: 4px;
     margin-bottom: 30px;
